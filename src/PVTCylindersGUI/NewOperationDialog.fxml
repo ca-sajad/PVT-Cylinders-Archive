@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.collections.FXCollections?>
+<DialogPane xmlns:fx="http://javafx.com/fxml" fx:controller="PVTCylindersGUI.NewOperationController">
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Operation" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <ComboBox fx:id="operationBox" GridPane.rowIndex="0" GridPane.columnIndex="1">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="Test"/>
+                        <String fx:value="New Sample"/>
+                        <String fx:value="Service"/>
+                        <String fx:value="Inspection"/>
+                    </FXCollections>
+                </items>
+            </ComboBox>
+            <Label text="Well" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextField fx:id="wellField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+            <Label text="Sample" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <ComboBox fx:id="sampleBox" GridPane.rowIndex="2" GridPane.columnIndex="1">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="Empty"/>
+                        <String fx:value="Oil"/>
+                        <String fx:value="Gas"/>
+                        <String fx:value="Formation Water"/>
+                        <String fx:value="Distilled Water"/>
+                        <String fx:value="N2"/>
+                        <String fx:value="Gas Mixture"/>
+                        <String fx:value="Other Samples"/>
+                    </FXCollections>
+                </items>
+                <value>
+                    <String fx:value="Empty" />
+                </value>
+            </ComboBox>
+            <Label text="Test" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+            <ComboBox fx:id="testBox" GridPane.rowIndex="3" GridPane.columnIndex="1">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="NA"/>
+                        <String fx:value="Bubble Point Pressure"/>
+                        <String fx:value="CME"/>
+                        <String fx:value="CME-Preliminary"/>
+                        <String fx:value="Composition"/>
+                        <String fx:value="CVD"/>
+                        <String fx:value="Density"/>
+                        <String fx:value="Dew Point Pressure"/>
+                        <String fx:value="DV"/>
+                        <String fx:value="Flash Separation"/>
+                        <String fx:value="GOR"/>
+                        <String fx:value="IFT"/>
+                        <String fx:value="Recombination"/>
+                        <String fx:value="SARA"/>
+                        <String fx:value="Separator"/>
+                        <String fx:value="Viscosity"/>
+                        <String fx:value="Other Tests"/>
+                    </FXCollections>
+                </items>
+                <value>
+                    <String fx:value="NA" />
+                </value>
+            </ComboBox>
+            <Label text="Volume Change" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+            <TextField fx:id="volumeField" GridPane.rowIndex="4" GridPane.columnIndex="1"/>
+            <Label text="Description" GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+            <TextArea fx:id="descriptionArea" GridPane.rowIndex="5" GridPane.columnIndex="1" wrapText="true"/>
+            <Label text="Date" GridPane.rowIndex="6" GridPane.columnIndex="0"/>
+            <DatePicker fx:id="datePicker" GridPane.rowIndex="6" GridPane.columnIndex="1"/>
+        </GridPane>
+    </content>
+</DialogPane>

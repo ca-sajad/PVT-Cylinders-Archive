@@ -1,0 +1,55 @@
+L-1146	SG-5	Oil	New Sample	NA	510.0	OP=2350psia, T=20.8C	2022-02-07
+L-1147	AZ-343	Oil	New Sample	NA	550.0		2021-07-01
+L-1147	AZ-343	Oil	Test	CME-Preliminary	-40.0		2021-09-18
+V-250	AZ-343	Oil	New Sample	NA	800.0	Recombination of L-222 & L-1139	2022-01-24
+V-250	AZ-343	Oil	Test	CME	-80.0		2022-01-29
+V-250	AZ-343	Oil	Test	Bubble Point Pressure	-40.0		2022-01-30
+V-250	AZ-343	Oil	Test	Composition	-140.0		2022-02-01
+V-250	AZ-343	Oil	Test	DV	-80.0		2022-02-06
+L-250	North Yaran	Oil	New Sample	NA	700.0	Surface Sample	2021-11-01
+L-251	AZ-343	Oil	New Sample	NA	500.0		2021-07-01
+L-251	AZ-343	Oil	Test	CME-Preliminary	-43.0		2021-10-16
+L-231	East Susangerd	Oil	New Sample	NA	1.0		2020-06-01
+L-258	SG-5	Oil	New Sample	NA	530.0	OP=2150psia, T=22C\nPb=2598.1psia, T=22C	2022-02-07
+L-259	MI-113	Oil	New Sample	NA	550.0	OP=1350psi, T=22.7C\nPb=1332.2psia, T=23.4C	2020-12-15
+L-259	MI-113	Oil	Test	Other Tests	-549.0	unknown volume change	2022-02-09
+L-254	North Yaran	Oil	New Sample	NA	700.0	Surface Sample	2021-11-01
+L-256	SG-5	Oil	New Sample	NA	650.0	PDS's piston failed during the transfer. The transferred sample contains water and is unusable.	2022-02-05
+L-218	BH-26	Oil	New Sample	NA	550.0	OP=1440psi, T=25C\nPb=1644psi, T=25C	2020-01-01
+L-218	BH-26	Oil	Test	Other Tests	-549.0	unknown volume change	2022-02-09
+x-2	AZ-343	Oil	New Sample	NA	444.0		2022-02-15
+L-219	SG-5	Oil	New Sample	NA	540.0	The mixing ball isn't moving. Sample is transferred to L-1146.	2022-02-06
+L-219	SG-5	Oil	Test	Other Tests	-540.0	Sample is transferred to L-1146.	2022-02-07
+L-219	NA	Empty	Service	NA	0.0		2022-02-07
+L-219	SG-5	Oil	New Sample	NA	480.0	OP=2600psia, T=18.5C\nPb=3748.3psia, T=23.5C	2022-02-07
+L-219	SG-5	Oil	Test	Bubble Point Pressure	-22.0		2022-03-04
+L-219	SG-5	Oil	Test	Bubble Point Pressure	-20.0		2022-03-05
+L-1150	AZ-343	Oil	New Sample	NA	540.0		2021-07-01
+L-1150	AZ-343	Oil	Test	CME-Preliminary	-44.0		2021-10-02
+x-1	AZ-343	Oil	New Sample	NA	124.0		2022-02-15
+x-4	AZ-343	Oil	New Sample	NA	544.0		2022-02-15
+x-3	AZ-343	Oil	New Sample	NA	555.0		2022-02-15
+x-5	AZ-343	Oil	New Sample	NA	333.0		2022-02-15
+L-1136	North Yaran	Oil	New Sample	NA	444.0	Surface Sample	2021-11-01
+L-1139	AZ-343	Oil	New Sample	NA	530.0		2021-07-01
+L-1139	AZ-343	Oil	Test	CME-Preliminary	-45.0		2021-11-13
+L-1139	AZ-343	Oil	Test	Recombination	-450.0	Adde to V-250	2022-01-24
+L-240	MI-113	Oil	New Sample	NA	530.0	OP=1300psi, T=23.5C\nPb=1300psi, T=22.3C	2020-12-15
+L-240	MI-113	Oil	Test	Other Tests	-529.0	unknown volume change	2022-02-09
+L-225	BH-26	Oil	New Sample	NA	600.0	OP=1530psi, T=25C\nPb=1559psi, T=25C	2020-01-01
+L-225	BH-26	Oil	Test	Other Tests	-599.0		2022-02-09
+L-249	SG-5	Oil	New Sample	NA	530.0	OP=2400psia, T=22\nPb=2513.2psia, T=21.8	2022-02-07
+L-228	MI-113	Oil	New Sample	NA	530.0	OP=1300psi, T=23C\nPb=1303psi, T=22.3C	2020-12-15
+L-228	MI-113	Oil	Test	Other Tests	-529.0	unknown volume change	2022-02-09
+L-244	AZ-343	Oil	New Sample	NA	520.0		2021-07-01
+L-222	AZ-343	Oil	New Sample	NA	535.0		2021-07-01
+L-222	AZ-343	Oil	Test	CME-Preliminary	-40.0		2021-11-07
+L-222	AZ-343	Oil	Test	Recombination	-350.0	Added to V-250	2022-01-24
+L-223	HK-48	Oil	New Sample	NA	1.0	OP=1300psi\nPb=1265psi, T=93F	2020-09-01
+L-301	BH-26	Oil	New Sample	NA	550.0	OP=1470psi, T=22.5C\nPb=1548psi, T=22.5C	2020-01-01
+L-301	BH-26	Oil	Test	Other Tests	-549.0		2022-02-09
+L-207	HK-48	Oil	New Sample	NA	1.0	OP=1300psi\nPb=1273psi, T=90F	2020-09-01
+L-208	SG-5	Oil	New Sample	NA	530.0	OP=2250psia,T=21.7C\nPb=2587psia,T=21.4C	2022-02-06
+L-209	HK-48	Oil	New Sample	NA	1.0	OP=1300psi\nPb=1267psi, T=86F	2020-09-01
+L-1142	MI-113	Oil	New Sample	NA	520.0	OP=1300psi, T=22.8C\nPb=1290psi, T=22.2C	2020-12-15
+L-1142	MI-113	Oil	Test	Other Tests	-519.0	unknown volume change	2022-02-09

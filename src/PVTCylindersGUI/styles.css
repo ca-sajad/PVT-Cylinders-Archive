@@ -1,0 +1,65 @@
+#leftTable .table-column {
+     -fx-alignment: CENTER;
+ }
+
+#rightTable .table-column {
+    -fx-alignment: CENTER;
+}
+
+#cylinderListHBox{
+    -fx-padding: 0 0 0 15px;
+    -fx-spacing: 18px;
+}
+
+#searchField{
+    -fx-text-fill: rgb(200,200,200) ;
+}
+
+#xAxis, #yAxis{
+    -fx-tick-label-font-size: 16px;
+    -fx-tick-label-fill: Black;
+}
+
+#yAxis .label{
+    -fx-font-size: 16px;
+    -fx-text-fill : Black;
+}
+
+#xAxis .label{
+    -fx-font-size: 16px;
+    -fx-text-fill : Black;
+}
+
+#statisticsBorderPane{
+    -fx-background-color :lightgrey;
+}
+
+#barChart .title{
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.chart-title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+#cylNameLeftCol {
+    -fx-font-weight: bold;
+}
+
+.table-view .scroll-bar {
+    -fx-min-height: 0;
+    -fx-pref-height: 0;
+    -fx-max-height: 0;
+}
+
+#hBoxButtons {
+    -fx-padding: 5 0 5 0;
+    -fx-alignment: center;
+}
+
+#labelBottom{
+    -fx-font-weight: bold;
+    -fx-padding: 5 0 5 20;
+}

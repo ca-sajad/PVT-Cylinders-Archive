@@ -1,0 +1,27 @@
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.DialogPane?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<DialogPane fx:controller="PVTCylindersGUI.NewCylinderController" xmlns:fx="http://javafx.com/fxml">
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Cylinder Name" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField fx:id="cylinderNameField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+            <Label text="Cylinder Type" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <ComboBox fx:id="typeBox" GridPane.rowIndex="1" GridPane.columnIndex="1">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="Oil"/>
+                        <String fx:value="Gas"/>
+                    </FXCollections>
+                </items>
+                <value>
+                    <String fx:value="Oil" />
+                </value>
+            </ComboBox>
+        </GridPane>
+    </content>
+</DialogPane>

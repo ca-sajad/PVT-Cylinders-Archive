@@ -1,0 +1,28 @@
+L-1146	SG-5	Oil	New Sample	NA	510.0	OP=2350psia, T=20.8C	2022-02-07
+L-1147	AZ-343	Oil	New Sample	NA	550.0		2021-07-01
+L-1147	AZ-343	Oil	Test	CME-Preliminary	-40.0		2021-09-18
+V-250	AZ-343	Oil	New Sample	NA	800.0	Recombination of L-222 & L-1139	2022-01-24
+V-250	AZ-343	Oil	Test	CME	-80.0		2022-01-29
+V-250	AZ-343	Oil	Test	Bubble Point Pressure	-40.0		2022-01-30
+V-250	AZ-343	Oil	Test	Composition	-140.0		2022-02-01
+V-250	AZ-343	Oil	Test	DV	-80.0		2022-02-06
+L-251	AZ-343	Oil	New Sample	NA	500.0		2021-07-01
+L-251	AZ-343	Oil	Test	CME-Preliminary	-43.0		2021-10-16
+L-258	SG-5	Oil	New Sample	NA	530.0	OP=2150psia, T=22C\nPb=2598.1psia, T=22C	2022-02-07
+L-256	SG-5	Oil	New Sample	NA	650.0	PDS's piston failed during the transfer. The transferred sample contains water and is unusable.	2022-02-05
+L-219	SG-5	Oil	New Sample	NA	540.0	The mixing ball isn't moving. Sample is transferred to L-1146.	2022-02-06
+L-219	SG-5	Oil	Test	Other Tests	-540.0	Sample is transferred to L-1146.	2022-02-07
+L-219	NA	Empty	Service	NA	0.0		2022-02-07
+L-219	SG-5	Oil	New Sample	NA	480.0	OP=2600psia, T=18.5C\nPb=3748.3psia, T=23.5C	2022-02-07
+L-1150	AZ-343	Oil	New Sample	NA	540.0		2021-07-01
+L-1150	AZ-343	Oil	Test	CME-Preliminary	-44.0		2021-10-02
+L-1139	AZ-343	Oil	New Sample	NA	530.0		2021-07-01
+L-1139	AZ-343	Oil	Test	CME-Preliminary	-45.0		2021-11-13
+L-1139	AZ-343	Oil	Test	Recombination	-450.0	Adde to V-250	2022-01-24
+L-249	SG-5	Oil	New Sample	NA	530.0	OP=2400psia, T=22\nPb=2513.2psia, T=21.8	2022-02-07
+L-244	AZ-343	Oil	New Sample	NA	520.0		2021-07-01
+L-222	AZ-343	Oil	New Sample	NA	535.0		2021-07-01
+L-222	AZ-343	Oil	Test	CME-Preliminary	-40.0		2021-11-07
+L-222	AZ-343	Oil	Test	Recombination	-350.0	Added to V-250	2022-01-24
+L-207	HK-48	Oil	New Sample	NA	1.0	حجم سیلندر نامشخص است	2022-01-31
+L-208	SG-5	Oil	New Sample	NA	530.0	OP=2250psia,T=21.7C\nPb=2587psia,T=21.4C	2022-02-06

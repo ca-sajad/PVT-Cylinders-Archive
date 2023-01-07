@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<DialogPane xmlns:fx="http://javafx.com/fxml" fx:controller="PVTCylindersGUI.ChangeLocController">
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Cylinder Location" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField fx:id="cylLocField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+        </GridPane>
+    </content>
+</DialogPane>

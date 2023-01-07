@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<DialogPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="PVTCylindersGUI.ColorLegendController">
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Oil Cylinder" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+            <Label text="Gas Cylinder" GridPane.rowIndex="1" GridPane.columnIndex="1"
+                style="-fx-text-fill: darkblue"/>
+            <Label text="Empty - Ready" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <Label text="                    " GridPane.rowIndex="2" GridPane.columnIndex="2"
+                   style="-fx-background-color: LightCyan"/>
+            <Label text="Filled" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+            <Label text="                    " GridPane.rowIndex="3" GridPane.columnIndex="2"
+                   style="-fx-background-color: LightGreen"/>
+            <Label text="Needs Service" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+            <Label text="                    " GridPane.rowIndex="4" GridPane.columnIndex="2"
+                   style="-fx-background-color: Yellow"/>
+            <Label text="Out of Service" GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+            <Label text="                    " GridPane.rowIndex="5" GridPane.columnIndex="2"
+                   style="-fx-background-color: DarkGrey"/>
+            <Label text="Outside PVT" GridPane.rowIndex="6" GridPane.columnIndex="0"/>
+            <Label text="                    " GridPane.rowIndex="6" GridPane.columnIndex="2"
+                   style="-fx-background-color: Bisque"/>
+        </GridPane>
+    </content>
+</DialogPane>
